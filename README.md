@@ -1,10 +1,8 @@
-# <h1> Nayim Hossen <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </h1>
-<p align='center'>
-</p>
+ <h1> Nayim Hossen <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </h1>
 
-<p>
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF6347&size=17&lines=Full-Stack+Developer;Javascript+|+Typescript+|+React.js+|+Node.js+|+Mongodb" /></a>
-</p>
+
 
    <a href="https://www.linkedin.com/in/nayim-hossen/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -18,9 +16,10 @@
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-      overflow&logoColor=white">
   </a>  
   
-- 💼 I'm a MERN-Stack Developer
-- 💬 Talk to me about freelancing projects
-- 👯 Right now I am looking for an opportunity
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+I am a developer. I have worked extensively with Mern-stack. I am confident in my ability to create responsive and user-friendly web applications. I am also a highly motivated individual who is always looking to learn new technologies and improve my skills.
+
+I want to be a software developer because I want to create things that are useful and that help people. I also want to be able to work on a variety of different projects and to be able to learn new things.
 
  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -68,19 +67,6 @@
 <br> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
- 
-<a href="https://github.com/AmardeepKesharwani">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="100%"/>
-</a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<p align="start">
-    <a href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmardeepKesharwani&theme=tokyonight&hide_border=true"  width="100%" alt="Amardeep Kesharwani"/></a>
-
-</p>
 
 ## Connect with me 
 

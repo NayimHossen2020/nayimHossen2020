@@ -1,4 +1,5 @@
- <h1> Nayim Hossen <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> </h1>
+ <h1> Hi, Welcome to my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'> </h1>
 
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF6347&size=17&lines=Full-Stack+Developer;Javascript+|+Typescript+|+React.js+|+Node.js+|+Mongodb" /></a>

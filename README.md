@@ -18,7 +18,7 @@
   </a>  
   
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am a developer. I have worked extensively with Mern-stack. I am confident in my ability to create responsive and user-friendly web applications. I am also a highly motivated individual who is always looking to learn new technologies and improve my skills.
+Myself Nayim Hossen. I have worked extensively with Mern-stack. I am confident in my ability to create responsive and user-friendly web applications. I am also a highly motivated individual who is always looking to learn new technologies and improve my skills.
 
 I want to be a software developer because I want to create things that are useful and that help people. I also want to be able to work on a variety of different projects and to be able to learn new things.
 

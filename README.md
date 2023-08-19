@@ -5,11 +5,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF6347&size=17&lines=Full-Stack+Developer;Javascript+|+Typescript+|+React.js+|+Node.js+|+Mongodb" /></a>
 
 
-   <a href="https://www.linkedin.com/in/nayim-hossen/" target="_blank">
+   <a href="https://www.linkedin.com/in/nayimhossen/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   
-   <a href="https://www.linkedin.com/in/nayim-hossen/" target="_blank">
+   <a href="https://www.facebook.com/MuhammadNayimHossen" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/facebook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
   
@@ -71,17 +71,17 @@ I want to be a software developer because I want to create things that are usefu
 
 ## Connect with me 
 
- <a href="https://www.linkedin.com/in/nayim-hossen/" target="_blank">
+ <a href="https://www.linkedin.com/in/nayimhossen/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
  <a href="https://www.facebook.com/MuhammadNayimHossen/" target="_blank">
 <img src="https://img.shields.io/badge/facebook-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" /> 
+</a>
 
  <a href="mail.nayimhossen@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" /> 
-
- 
+ </a>
          
 
 

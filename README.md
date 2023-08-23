@@ -67,8 +67,6 @@ I want to be a software developer because I want to create things that are usefu
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
 ## Connect with me 
 
  <a href="https://www.linkedin.com/in/nayimhossen/" target="_blank">
